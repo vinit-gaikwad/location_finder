@@ -1,4 +1,6 @@
-first  : 
+first  :
+cargo build --release
+
 cargo run --release --bin indexer
 
 then : 
